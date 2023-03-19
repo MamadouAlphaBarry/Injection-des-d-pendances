@@ -10,3 +10,5 @@
 <h4>5. Faire l'injection des dépendances :</h4>
 <h4>a. Par instanciation statique:</h4>
 <img src="img/injectionAndIns.PNG" alt="">
+<h4>a. Par instanciation dynamique:</h4>
+<img src="img/instDynamique.PNG" alt="">

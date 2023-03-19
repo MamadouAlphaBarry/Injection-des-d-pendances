@@ -12,3 +12,7 @@
 <img src="img/injectionAndIns.PNG" alt="">
 <h4>a. Par instanciation dynamique:</h4>
 <img src="img/instDynamique.PNG" alt="">
+<h4>a. - Version XML:</h4>
+<img src="img/xml.PNG" alt="">
+<h4>a. - Version annotations:</h4>
+<img src="img/annotation.PNG" alt="">

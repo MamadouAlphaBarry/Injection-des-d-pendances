@@ -1,7 +1,9 @@
 package org.sid.enset.impl;
 
 import org.sid.enset.dao.IDao;
+import org.springframework.stereotype.Component;
 
+@Component
 public class IDaoImpl implements IDao {
     @Override
     public double getData() {

@@ -2,8 +2,12 @@ package org.sid.enset.impl;
 
 import org.sid.enset.dao.IDao;
 import org.sid.enset.dao.IMetier;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
+@Component
 public class IMetierImpl implements IMetier {
+    @Autowired
     private IDao dao;//couplage faible dependre de l'interface;
     @Override
     public double calcul() {
